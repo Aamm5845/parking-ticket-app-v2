@@ -1,7 +1,9 @@
-Flask==3.1.1
-Pillow==11.3.0
-PyPDF2==3.0.1
-reportlab==4.4.3
-gunicorn==22.0.0
+Flask
+PyPDF2
+reportlab
 google-cloud-vision
-google-auth
+google-oauth2-service-account
+gunicorn
+Flask-Login
+vercel-kv
+resend
